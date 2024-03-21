@@ -1,5 +1,5 @@
 # CE414-CD
-Solutions to Prof. Ms. Hosseinmardi's CE414: Compiler Design (Sharif University of Technology - Spring 2024)
+Solutions to Ms. Hosseinmardi's CE414: Compiler Design (Sharif University of Technology - Spring 2024)
 
 ## Overview
 
