@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.20)  3 MAY 2024 11:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.20)  3 MAY 2024 22:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1098,178 +1098,23 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
 (Font)              scaled to size 14.39996pt on input line 12.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
 (Font)              scaled to size 14.39996pt on input line 12.
-(./answers/1-hint.tex
+(./answers/1-hint.tex)
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 3.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+(Font)              scaled to size 11.99997pt on input line 14.
+ [1
 
- (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
-
-
-(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 11.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
-(Font)              scaled to size 5.99998pt on input line 11.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <10> not ava
-ilable
-(Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on inpu
-t line 11.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 11.99997pt on input line 11.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <7> not avai
-lable
-(Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on inpu
-t line 11.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 8.39998pt on input line 11.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <5> not avai
-lable
-(Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on inpu
-t line 11.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 5.99998pt on input line 11.
-
-
-LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(1)/m/it' undefined
-(Font)              using `TU/XBNiloofar.ttf(1)/m/n' instead on input line 11.
-
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
-(Font)              scaled to size 8.39998pt on input line 11.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
-(Font)              scaled to size 5.99998pt on input line 11.
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 11.
-
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 13.
-
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 15.
-
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 17.
-
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 19.
-
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 21.
-
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 23.
-
-
-LaTeX Font Warning: Command \small invalid in math mode on input line 25.
-
-) [1
-
-] (./answers/2-hint.tex
-File: q2p1.png Graphic file (type bmp)
-<q2p1.png>
- [2]) [3] (./answers/3-hint.tex
-File: q3s1p1.png Graphic file (type bmp)
-<q3s1p1.png>
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 12.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 12.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 12.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <12> not ava
-ilable
-(Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on inpu
-t line 12.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 12.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <8> not avai
-lable
-(Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on inpu
-t line 12.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 9.59998pt on input line 12.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <6> not avai
-lable
-(Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on inpu
-t line 12.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 7.19998pt on input line 12.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
-(Font)              scaled to size 14.39996pt on input line 12.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
-(Font)              scaled to size 9.59998pt on input line 12.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
-(Font)              scaled to size 7.19998pt on input line 12.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 21.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <14.4> not a
-vailable
-(Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on inpu
-t line 21.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 21.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
-(Font)              scaled to size 17.27994pt on input line 21.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
-(Font)              scaled to size 11.99997pt on input line 21.
-File: q3s2p1.png Graphic file (type bmp)
-<q3s2p1.png>
- [4]
-File: q3s2p2.png Graphic file (type bmp)
-<q3s2p2.png>
-
-
-LaTeX Font Warning: Command \LARGE invalid in math mode on input line 57.
-
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 20.73593pt on input line 57.
-
-LaTeX Font Warning: Command \LARGE invalid in math mode on input line 61.
-
-
-LaTeX Font Warning: Command \LARGE invalid in math mode on input line 61.
-
-
-LaTeX Font Warning: Command \LARGE invalid in math mode on input line 63.
-
-
-LaTeX Font Warning: Command \LARGE invalid in math mode on input line 63.
-
-File: q3s3p1.png Graphic file (type bmp)
-<q3s3p1.png>
-) [5] (./answers/4-hint.tex
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
-(Font)              scaled to size 20.73593pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <17.28> not 
-available
-(Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on inpu
-t line 7.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 20.73593pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
-(Font)              scaled to size 20.73593pt on input line 7.
- [6]
-File: 1.png Graphic file (type bmp)
-<1.png>
-) [7] (./HW.aux)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
+] (./answers/2-hint.tex) [2] (./answers/3-hint.tex)
+[3] (./answers/4-hint.tex) [4] (./HW.aux)
 Package rerunfilecheck Info: File `HW.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25339 strings out of 476683
- 481626 string characters out of 5807575
- 1853012 words of memory out of 5000000
- 45066 multiletter control sequences out of 15000+600000
- 522458 words of font info for 118 fonts, out of 8000000 for 9000
+ 25170 strings out of 476683
+ 477968 string characters out of 5807575
+ 1846012 words of memory out of 5000000
+ 44940 multiletter control sequences out of 15000+600000
+ 512911 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 90i,5n,101p,1343b,341s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,5n,101p,1343b,339s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (7 pages).
+Output written on HW.pdf (4 pages).
