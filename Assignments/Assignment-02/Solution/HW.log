@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.20)  4 MAY 2024 00:50
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.20)  4 MAY 2024 01:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -999,32 +999,32 @@ age=dflt;script=arab;mapping=persian-tex-text;"
 ) (./HW.aux)
 \openout1 = `HW.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
 .
 
 (c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1060,7 +1060,7 @@ LaTeX Font Info:    ... okay on input line 7.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 7.
+Package hyperref Info: Link coloring OFF on input line 9.
 (./HW.out) (./HW.out)
 \@outlinefile=\write4
 \openout4 = `HW.out'.
@@ -1068,36 +1068,36 @@ Package hyperref Info: Link coloring OFF on input line 7.
 File: commons/sharif.png Graphic file (type bmp)
 <commons/sharif.png>
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 9.
+(Font)              scaled to size 8.39998pt on input line 11.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
-(Font)              scaled to size 8.39998pt on input line 9.
+(Font)              scaled to size 8.39998pt on input line 11.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 10.79997pt on input line 9.
+(Font)              scaled to size 10.79997pt on input line 11.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 9.
+(Font)              scaled to size 17.27994pt on input line 11.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 9.
+(Font)              scaled to size 17.27994pt on input line 11.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
-(Font)              scaled to size 11.99997pt on input line 9.
+(Font)              scaled to size 11.99997pt on input line 11.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 11.99997pt on input line 9.
+(Font)              scaled to size 11.99997pt on input line 11.
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
 [][]
  []
 
 LaTeX Font Info:    Font shape `TU/XBKayhanPook.ttf(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 9.
+(Font)              scaled to size 11.99997pt on input line 11.
 LaTeX Font Info:    Font shape `TU/XBKayhanPook.ttf(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 9.
+(Font)              scaled to size 14.39996pt on input line 11.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
-(Font)              scaled to size 10.79997pt on input line 9.
+(Font)              scaled to size 10.79997pt on input line 11.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 12.
+(Font)              scaled to size 14.39996pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 12.
+(Font)              scaled to size 14.39996pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 12.
+(Font)              scaled to size 14.39996pt on input line 14.
 (./answers/1-hint.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
  (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1148,8 +1148,18 @@ File: figs/1.png Graphic file (type bmp)
 ]
 File: figs/2.png Graphic file (type bmp)
 <figs/2.png>
-) [2] (./answers/2-hint.tex) [3] (./answers/3-hint.tex) [4]
-(./answers/4-hint.tex) [5] (./HW.aux)
+) [2] (./answers/2-hint.tex) [3] (./answers/3-hint.tex
+File: figs/3.png Graphic file (type bmp)
+<figs/3.png>
+ [4]
+File: figs/4.png Graphic file (type bmp)
+<figs/4.png>
+
+Overfull \hbox (119.9997pt too wide) in paragraph at lines 40--41
+[][]     [][][] []
+ []
+
+) [5] (./answers/4-hint.tex) [6] (./answers/5-hint.tex) [7] (./HW.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1157,12 +1167,12 @@ Package rerunfilecheck Info: File `HW.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25234 strings out of 476683
- 479306 string characters out of 5807575
+ 25257 strings out of 476683
+ 479674 string characters out of 5807575
  1853012 words of memory out of 5000000
- 44984 multiletter control sequences out of 15000+600000
+ 45002 multiletter control sequences out of 15000+600000
  514642 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  90i,8n,101p,1343b,341s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (5 pages).
+Output written on HW.pdf (7 pages).
