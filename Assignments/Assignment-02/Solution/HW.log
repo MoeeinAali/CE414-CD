@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.20)  4 MAY 2024 11:40
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.20)  4 MAY 2024 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1151,15 +1151,14 @@ File: figs/2.png Graphic file (type bmp)
 ) [2] (./answers/2-hint.tex) [3] (./answers/3-hint.tex
 File: figs/3.png Graphic file (type bmp)
 <figs/3.png>
- [4]
 File: figs/4.png Graphic file (type bmp)
 <figs/4.png>
 
-Overfull \hbox (119.9997pt too wide) in paragraph at lines 38--39
+Overfull \hbox (119.9997pt too wide) in paragraph at lines 39--40
 [][]     [][][] []
  []
 
-) [5] (./answers/4-hint.tex
+) [4] (./answers/4-hint.tex
 File: figs/7.png Graphic file (type bmp)
 <figs/7.png>
 
@@ -1169,7 +1168,14 @@ Overfull \hbox (119.9997pt too wide) in paragraph at lines 5--6
 
 File: figs/8.png Graphic file (type bmp)
 <figs/8.png>
-) [6] (./answers/5-hint.tex
+
+Overfull \hbox (59.99985pt too wide) in paragraph at lines 9--10
+[][]   [][][] []
+ []
+
+File: figs/9.png Graphic file (type bmp)
+<figs/9.png>
+) [5] (./answers/5-hint.tex
 File: figs/5.png Graphic file (type bmp)
 <figs/5.png>
 
@@ -1179,7 +1185,12 @@ Overfull \hbox (119.9997pt too wide) in paragraph at lines 3--4
 
 File: figs/6.png Graphic file (type bmp)
 <figs/6.png>
-) [7] (./HW.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[][]
+ []
+
+) [6] (./HW.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1187,12 +1198,12 @@ Package rerunfilecheck Info: File `HW.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25291 strings out of 476683
- 480160 string characters out of 5807575
+ 25299 strings out of 476683
+ 480270 string characters out of 5807575
  1853012 words of memory out of 5000000
- 45032 multiletter control sequences out of 15000+600000
+ 45039 multiletter control sequences out of 15000+600000
  514642 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  90i,8n,101p,1343b,341s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (7 pages).
+Output written on HW.pdf (6 pages).
