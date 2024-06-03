@@ -1,0 +1,50 @@
+\setLTR
+\begin{lstlisting}
+program A()
+    var i : real
+    procedure B(j : integer)
+        var k : integer
+        i := 0
+        j := 6
+        k := i + j
+    end B
+    procedure C(l : integer)
+        var l : integer
+        procedure D(k : real)
+            var a[1..5] : real
+            a[j] := 5
+            k := 3/i
+        end D
+    end C
+end A
+\end{lstlisting}
+\setRTL
+
+\subsubsection*{خط 7)} 
+\setLTR
+$
+k:=i+j \xrightarrow{Static \ Error} Type \ Checking \ Error
+$
+\setRTL
+\subsubsection*{خط 10)}
+\setLTR
+$
+var \ l:integer \xrightarrow{Static \ Error} Uniqueness \ Checking \ Error
+$
+\setRTL
+\subsubsection*{خط 13)}
+\setLTR
+$
+a[j]:=5 \xrightarrow{Static \ Error} j \ not \ Defined  \ in \ this \ Scope
+$
+\setRTL
+\subsubsection*{خط 14)}
+\setLTR
+$
+k:=3/i \xrightarrow{Static \ Error} i \ not \ Defined  \ in \ this \ Scope \\ \\
+$
+\setRTL
+
+تمامی ارورهای این برنامه از نوع Static است و ارور Dynamic ندارد.
+
+

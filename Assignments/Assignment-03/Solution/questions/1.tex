@@ -1,0 +1,30 @@
+\setLTR
+\begin{lstlisting}
+program A()
+	var i,j : integer
+	procedure B(a : real)
+		var b[1..10] : real
+		procedure C(k : integer)
+			var c : real
+			b(4) := a + c
+		end C
+	end B
+	procedure D(l : integer)
+		l := i + j
+		procedure E()
+			var d : real
+		end E
+	end D
+end A
+\end{lstlisting}
+\setRTL
+
+
+
+وضعیت Table Syⅿbol و Staⅽk Scope هنگام اجرای خط 7 به صورت زیر است:
+
+\qquad\qquad\qquad\includegraphics[width=0.7\linewidth]{figs/1.png}
+
+وضعیت Table Syⅿbol و Staⅽk Scope هنگام اجرای خط 11 به صورت زیر است:
+
+\qquad\qquad\qquad\includegraphics[width=0.7\linewidth]{figs/2.png}
