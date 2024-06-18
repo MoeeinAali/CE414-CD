@@ -1,0 +1,108 @@
+در ابتدا کد داده شده را به $3AC$ تبدیل می‌کنیم:
+\setLTR
+\begin{lstlisting}
+x:=10
+y:=20
+if x>y goto 5 
+goto 7
+z:=x+y
+goto 8
+w:=x-y
+result:=y-x
+\end{lstlisting}
+\setRTL
+سپس مقدار عددی متغیرها را جایگزین می‌کنیم:
+\setLTR
+\begin{lstlisting}
+x:=10
+y:=20
+if 10>20 goto 5 
+goto 7
+z:=10+20
+goto 8
+w:=10-20
+result:=20-10
+\end{lstlisting}
+\setRTL
+حال عملیات‌های ریاضی را ساده‌سازی می‌کنیم:
+\setLTR
+\begin{lstlisting}
+x:=10
+y:=20
+if 10>20 goto 5 
+goto 7
+z:=30
+goto 8
+w:=-10
+result:=10
+\end{lstlisting}
+\setRTL
+چون شرط همواره غلط است، آن را حذف می‌کنیم:
+\setLTR
+\begin{lstlisting}
+x:=10
+y:=20
+
+goto 7
+z:=30
+goto 8
+w:=-10
+result:=10
+\end{lstlisting}
+‌\setRTL
+
+خط‌های 5 و 6 غیر قابل دسترس هستند، پس آن‌ها را حذف می‌کنیم: 
+\setLTR
+\begin{lstlisting}
+x:=10
+y:=20
+
+goto 7
+
+
+w:=-10
+result:=10
+\end{lstlisting}
+\pagebreak
+\setRTL
+نیازی به دستور $goto$ نداریم پس حذفش می‌کنیم:
+\setLTR
+\begin{lstlisting}
+x:=10
+y:=20
+
+
+
+
+w:=-10
+result:=10
+\end{lstlisting}
+\setRTL
+وجود متغیر $w$ اضافی است، پس حذفش می‌کنیم:
+\setLTR
+\begin{lstlisting}
+x:=10
+y:=20
+
+
+
+
+
+result:=10
+\end{lstlisting}
+\setRTL
+وجود متغیرهای $x,y$ اضافی است، پس حذفشان می‌کنیم و می‌‌بینیم که کد به ساده‌ترین شکل ممکن نوشته شد:
+\setLTR
+\begin{lstlisting}
+
+
+
+
+
+
+
+result:=10
+\end{lstlisting}
+\setRTL
+
+البته صورت سوال صرفا خواسته بود که کد مرده شناسایی و حذف شود، در این صورت می‌شد $x,y$ را حذف نکرد و $w$ را برحسب آن دو نوشت. اما این حالت بهینه‌ترین نیست.
